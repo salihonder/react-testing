@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Snapshot test for Button 1`] = `
+<DocumentFragment>
+  <button>
+    Some
+  </button>
+</DocumentFragment>
+`;
+
+exports[`Snapshot test for Header 1`] = `
+<DocumentFragment>
+  <h1
+    style="color: red;"
+  >
+    Something
+  </h1>
+</DocumentFragment>
+`;
